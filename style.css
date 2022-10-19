@@ -1,0 +1,10 @@
+
+.banner {
+  background: url("c.jpg")
+  no-repeat center ;
+background-size:200%;
+padding-top: 20%;
+padding-bottom: 20%;
+color: aliceblue;
+  
+}
